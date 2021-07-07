@@ -1,0 +1,8 @@
+1. Apa tujuan kalian mengikuti bootcamp?
+Untuk menambah ilmu dalam bidang IT dan passion saya pada bidang IT
+
+2. Apa rencana ke depan kalian setelah mengikuti bootcamp?
+ingin menjadi data analis
+
+3. Sebutkan jenis tipe data primitif?
+number,string,Boolean,object,undefined,null
